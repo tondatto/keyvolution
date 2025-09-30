@@ -39,4 +39,6 @@ K Y Z M A R S C V X
 Average distance per word: 1.9060
 ```
 
+For best results, the word list must have no diacritcs. Example, replace `àáãâ` to `a`.
+
 [1]: https://portuguesewithcarla.com/1000-most-common-portuguese-words/
