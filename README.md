@@ -21,7 +21,7 @@ $ ./best-layout-ga top400-pt.txt
 
 ## Best results
 
-Running the program on a machine with Linux Pop!_OS 22.04 LTS operating system and Intel® Core™ i7-12700 processor this is the best results:
+Running the program on a machine with Linux Pop!_OS 22.04 LTS operating system and Intel® Core™ i7-12700 processor this is the best results for the [400 most common portuguese words][1]:
 
 Python (time: 242s)
 ```
@@ -38,3 +38,5 @@ K Y Z M A R S C V X
   Q F U D N G H
 Average distance per word: 1.9060
 ```
+
+[1]: https://portuguesewithcarla.com/1000-most-common-portuguese-words/
