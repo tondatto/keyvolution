@@ -1,0 +1,101 @@
+semana
+ano
+hoje
+amanhã
+ontem
+calendário
+segundo
+hora
+minuto
+hora
+relógio
+poder
+usar
+fazer
+ir
+vir
+rir
+fazer
+ver
+longe
+pequeno
+bom
+bonito
+feio
+difícil
+fácil
+mau
+perto
+Prazer em conhecê-lo. masc Nice to meet you.
+Olá. Hello.
+Bom dia. Good morning.
+Boa tarde. Good afternoon.
+Boa noite. Good evening.
+Boa noite. Good night.
+Tudo bem? How are you?
+Obrigado. Thank you!
+Não.
+Delicioso! masc Delicious!
+Eu sou... I'm...(____).
+Adeus. Goodbye.
+Sim. Yes.
+segunda-feira
+terça-feira
+quarta-feira
+quinta-feira
+sexta-feira
+sábado
+domingo
+maio
+janeiro
+fevereiro
+março
+abril
+junho
+julho
+agosto
+setembro
+outubro
+novembro
+dezembro
+zero zero
+um masc one
+dois masc two
+três three
+quatro four
+cinco five
+seis six
+sete seven
+oito eight
+nove nine
+dez ten
+café
+cerveja
+chá
+vinho
+água
+carne de boi fem beef
+carne de porco fem pork
+frango
+carneiro
+peixe
+pé
+perna
+cabeça
+braço
+mão
+dedo
+corpo
+estômago
+costas
+peito
+enfermeira
+funcionário
+policial
+cozinheiro
+engenheiro
+médico
+gerente
+professora
+programador
+vendedor
